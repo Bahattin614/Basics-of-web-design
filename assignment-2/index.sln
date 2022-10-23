@@ -5,14 +5,23 @@ VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C5872433-3985-459E-90C0-95B152B017DC}"
 	ProjectSection(SolutionItems) = preProject
-		..\..\..\..\Users\ayten\OneDrive\Masaüstü\Dersler\Web Tasarim\Basics-of-web-design\City exploration\Gezilecekyerler.html = ..\..\..\..\Users\ayten\OneDrive\Masaüstü\Dersler\Web Tasarim\Basics-of-web-design\City exploration\Gezilecekyerler.html
+		Alacam_Mubadele_Muzesi.html = Alacam_Mubadele_Muzesi.html
+		Amisos.html = Amisos.html
+		anit.html = anit.html
+		Bafra_Arkeoloji_Muzesi.html = Bafra_Arkeoloji_Muzesi.html
+		camii.html = camii.html
+		gazi.html = gazi.html
+		Gezilecekyerler.html = Gezilecekyerler.html
 		heykel.html = heykel.html
 		iklim.html = iklim.html
-		..\..\..\..\Users\ayten\OneDrive\Masaüstü\Dersler\Web Tasarim\Basics-of-web-design\City exploration\index.html = ..\..\..\..\Users\ayten\OneDrive\Masaüstü\Dersler\Web Tasarim\Basics-of-web-design\City exploration\index.html
-		muze.html = muze.html
 		Kanyon.html = Kanyon.html
-		yemekler.html = yemekler.html
+		kus.html = kus.html
+		muze.html = muze.html
+		sahil.html = sahil.html
+		Tekkekoy_Magaraları.html = Tekkekoy_Magaraları.html
+		Turizm_Merkezi.html = Turizm_Merkezi.html
 		Vapur.html = Vapur.html
+		yemekler.html = yemekler.html
 	EndProjectSection
 EndProject
 Global
