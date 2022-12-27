@@ -5,7 +5,7 @@ VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{610F7656-0977-4084-88F6-9944A894BEA2}"
 	ProjectSection(SolutionItems) = preProject
-		Hesap.html = Hesap.html
+		Vize-final-hesaplamal.html = Vize-final-hesaplamal.html
 		Script1.js = Script1.js
 		StyleSheet1.css = StyleSheet1.css
 	EndProjectSection
